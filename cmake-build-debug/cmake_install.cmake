@@ -1,4 +1,4 @@
-# Install script for directory: D:/FIE/Paradigmas 3/Templatecpp
+# Install script for directory: D:/FIE/Paradigmas 3/practicas de recuperatorio/ejercicio2_TP_PP3
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "D:/FIE/Paradigmas 3/Templatecpp/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "D:/FIE/Paradigmas 3/practicas de recuperatorio/ejercicio2_TP_PP3/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

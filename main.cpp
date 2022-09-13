@@ -15,7 +15,7 @@ int main() {
     Deportivo deportivo1("1234", 10, 2002, 2);
   //  Alquiler alquiler1(10042021,20042021 , cliente1, yate1, "1234");
    // Alquiler alquiler2(02042021,13042021 , cliente1, velero1, "1234");
-   Alquiler alquiler3(20042022, 02052022, cliente1, deportivo1, "1234");
+    Alquiler alquiler3 (10052022, 10062022, cliente1, deportivo1, "1234");
 
    // alquiler1.mostrar();
   //  alquiler2.mostrar();

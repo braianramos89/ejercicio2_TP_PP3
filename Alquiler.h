@@ -21,6 +21,7 @@ public:
     ~Alquiler();
     virtual void mostrar();
     float calcularAlquiler();
+    int obtenerDias();
 
 };
 
